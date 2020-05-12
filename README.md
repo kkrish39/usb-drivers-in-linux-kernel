@@ -1,5 +1,5 @@
 # About the USB-Driver
-It is a hello world USB driver program. Detailed working of the program is explained in the report. 
+It is a hello world USB driver program.
 
 tested Linux-version: 5.3.0-51-generic
 
